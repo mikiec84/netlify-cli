@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/netlify/netlify-cli",
   "dependencies": {
-    "open": "0.0.5",
+    "open": "7.0.4",
     "netlify": "^0.2.6",
     "commander": "^2.3.0",
     "chalk": "^0.5.1",
